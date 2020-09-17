@@ -19,3 +19,9 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+players_app/build/
+players_app/web/
+players_app/.idea/
+players_app/.dart_tool/
+players_app/ios/
+players_app/android/
